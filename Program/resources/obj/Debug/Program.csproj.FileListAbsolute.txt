@@ -1,0 +1,10 @@
+C:\Users\1onei\source\repos\Passwordom\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\1onei\source\repos\Passwordom\Program\Program\obj\Debug\Program.Form.resources
+C:\Users\1onei\source\repos\Passwordom\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\1onei\source\repos\Passwordom\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\1onei\source\repos\Passwordom\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\1onei\source\repos\Passwordom\Program\Program\bin\Debug\Program.exe.config
+C:\Users\1onei\source\repos\Passwordom\Program\Program\bin\Debug\Program.exe
+C:\Users\1onei\source\repos\Passwordom\Program\Program\bin\Debug\Program.pdb
+C:\Users\1onei\source\repos\Passwordom\Program\Program\obj\Debug\Program.exe
+C:\Users\1onei\source\repos\Passwordom\Program\Program\obj\Debug\Program.pdb
